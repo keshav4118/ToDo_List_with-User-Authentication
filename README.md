@@ -12,13 +12,13 @@
 <code> Log In </code>
 <p><img src="images/login.png" alt="This is Log in page" width="900" height="400"></p>
 <code> Register </code>
-<p><img src="images/register.png" alt="This is Register in page"  width="900" height="400">></p>
+<p><img src="images/register.png" alt="This is Register in page"  width="900" height="400"></p>
 <code> Home </code>
-<p><img src="images/home.png" alt="This is Home page"  width="900" height="400">></p>
+<p><img src="images/home.png" alt="This is Home page"  width="900" height="400"></p>
 <code> Edit </code>
-<p><img src="images/edit.png" alt="This is Edit page"  width="900" height="400">></p>
+<p><img src="images/edit.png" alt="This is Edit page"  width="900" height="400"></p>
 <code> Delete Page </code>
-<p><img src="images/delete.png" alt="This is Delete page"  width="900" height="400">></p>
+<p><img src="images/delete.png" alt="This is Delete page"  width="900" height="400"></p>
 
 <h3>Fundamental Features</h3>
 
