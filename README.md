@@ -9,3 +9,22 @@
 <p> In todos page, users can display current not-done to-do's and also the already-done ones. In this page, users can create, edit, delete, sort or mark as done the to-do items.</p>
 <h5> Get started to organize and track your stuff accordingly with Awesome TodoApp!! </h5>
 <p> Below there are samples from each page:</p>
+<code> Log In </code>
+<p><img src="images/login.png" alt="This is Log in page" width="900" height="400"></p>
+<code> Register </code>
+<p><img src="images/register.png" alt="This is Register in page"  width="900" height="400">></p>
+<code> Home </code>
+<p><img src="images/home.png" alt="This is Home page"  width="900" height="400">></p>
+<code> Edit </code>
+<p><img src="images/edit.png" alt="This is Edit page"  width="900" height="400">></p>
+<code> Delete Page </code>
+<p><img src="images/delete.png" alt="This is Delete page"  width="900" height="400">></p>
+
+<h3>Fundamental Features</h3>
+
+<ul>
+<li>Simplified and Organized to-do management within special to-do lists</li>
+<li>Basic operations (create, delete, edit) with both to-do lists and to-do items</li>
+<li>Drag and drop task prioritization for both to-do lists and to-do items</li>
+<li>Marking as done/undone feature for tasks</li>
+</ul>
